@@ -1,3 +1,3 @@
 # Lab11
 
-HTML for Lab 11 of CISC 3140
+HTML file for Lab 11, which is a simple static page with my favorite places to visit and my favorite restaurants.
